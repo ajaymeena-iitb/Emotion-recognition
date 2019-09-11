@@ -1,3 +1,1 @@
-# Emotion-recognition
-Predicting emotional state of raw audio file
-This project is the implementation of [a link](https://github.com/user/repo/blob/branch/other_file.md)
+This code is the implementation of [PAPER: ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7953131) A first look into a Convolutional Neural Network for speech emotion detection
